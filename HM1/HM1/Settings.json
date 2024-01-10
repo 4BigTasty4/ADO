@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "Default": "Server = localhost; Database = Academy_3_11; Integrated Security = true;" 
+  }
+}
